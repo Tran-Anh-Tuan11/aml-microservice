@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a231f906-a817-4369-b21d-a2f73dd9ee2a" name="Changes" comment="init app">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+    <list default="true" id="a231f906-a817-4369-b21d-a2f73dd9ee2a" name="Changes" comment="jenkins and docker file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1752148438965</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="jenkins and docker file">
+      <created>1752162723150</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752162723150</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,6 +87,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init app" />
-    <option name="LAST_COMMIT_MESSAGE" value="init app" />
+    <MESSAGE value="jenkins and docker file" />
+    <option name="LAST_COMMIT_MESSAGE" value="jenkins and docker file" />
   </component>
 </project>
